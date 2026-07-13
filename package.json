@@ -1,0 +1,8 @@
+{
+  "name": "fillmeupwithcolor-api",
+  "version": "1.0.0",
+  "description": "Vercel proxy backend for Lulu Print API",
+  "engines": {
+    "node": "20.x"
+  }
+}
