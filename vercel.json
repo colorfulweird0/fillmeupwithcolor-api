@@ -1,12 +1,1 @@
-{
-  "functions": {
-    "api/shipping.js": {
-      "memory": 128,
-      "maxDuration": 10
-    },
-    "api/order.js": {
-      "memory": 128,
-      "maxDuration": 10
-    }
-  }
-}
+{}
