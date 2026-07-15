@@ -1,7 +1,12 @@
 {
   "functions": {
-    "api/*.js": {
-      "runtime": "edge"
+    "api/shipping.js": {
+      "memory": 128,
+      "maxDuration": 10
+    },
+    "api/order.js": {
+      "memory": 128,
+      "maxDuration": 10
     }
   }
 }
