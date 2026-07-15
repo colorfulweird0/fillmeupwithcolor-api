@@ -1,12 +1,8 @@
 {
-  "functions": {
-    "api/shipping.js": {
-      "memory": 128,
-      "maxDuration": 10
-    },
-    "api/order.js": {
-      "memory": 128,
-      "maxDuration": 10
-    }
+  "name": "fillmeupwithcolor-api",
+  "version": "1.0.1",
+  "description": "Vercel proxy backend for Lulu Print API",
+  "engines": {
+    "node": "20.x"
   }
 }
