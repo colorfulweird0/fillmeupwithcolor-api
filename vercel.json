@@ -1,1 +1,10 @@
-{}
+{
+  "functions": {
+    "api/shipping.js": {
+      "runtime": "nodejs20.x"
+    },
+    "api/order.js": {
+      "runtime": "nodejs20.x"
+    }
+  }
+}
